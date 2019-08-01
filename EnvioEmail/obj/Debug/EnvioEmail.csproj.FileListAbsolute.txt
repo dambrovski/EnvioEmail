@@ -1,0 +1,6 @@
+c:\users\suporte99\documents\visual studio 2015\Projects\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe.config
+c:\users\suporte99\documents\visual studio 2015\Projects\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe
+c:\users\suporte99\documents\visual studio 2015\Projects\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.pdb
+c:\users\suporte99\documents\visual studio 2015\Projects\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csprojResolveAssemblyReference.cache
+c:\users\suporte99\documents\visual studio 2015\Projects\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.exe
+c:\users\suporte99\documents\visual studio 2015\Projects\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.pdb
